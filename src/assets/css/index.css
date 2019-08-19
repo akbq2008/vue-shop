@@ -1,0 +1,57 @@
+.fx_2 {
+  display: flex;
+  justify-content: center;
+}
+
+.fx {
+  display: flex;
+  align-items: center;
+}
+
+.fx_ct {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.fx_sa {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.fx_sp {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.ct {
+  text-align: center;
+}
+
+.cl {
+  text-align: left;
+}
+
+.cr {
+  text-align: right;
+}
+
+.middle {
+  vertical-align: middle;
+}
+
+.wt {
+  background: white !important;
+}
+
+.jc {
+  display: flex;
+  justify-content: center;
+}
+
+.ac {
+  display: flex;
+  align-items: center;
+}

@@ -1,5 +1,5 @@
 <template>
-  <div></div>
+  <div>cart</div>
 </template>
 <script lang='ts'>
 //  Inject, Provide, Prop, Model, Watch, Emit, Mixins
